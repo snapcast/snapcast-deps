@@ -231,7 +231,7 @@ cd ${BASEDIR}
 ./make_aar.sh build/aar/ ogg 1.3.6 ./build/android/ libogg.a ogg
 ./make_aar.sh build/aar/ opus 1.5.2 ./build/android/ libopus.a opus
 ./make_aar.sh build/aar/ tremor 1.0.1 ./build/android/ libvorbisidec.a tremor
-./make_aar.sh build/aar/ oboe 1.9.0 ./build/android/ liboboe.a oboe
+./make_aar.sh build/aar/ oboe 1.10.0 ./build/android/ liboboe.a oboe
 ./make_aar.sh build/aar/ soxr 0.1.3 ./build/android/ libsoxr.a soxr.h
 ./make_aar.sh build/aar/ vorbis 1.3.7 ./build/android/ libvorbis.a vorbis
 ./make_aar.sh build/aar/ boost 1.90.0 ./build/android/ "" boost_1_90_0/boost
